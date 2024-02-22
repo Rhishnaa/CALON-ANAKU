@@ -21,6 +21,6 @@ export const FooterText = styled.h3`
 
 export default class Footer extends Component{
     render(){
-        return <FooterText>Made with ❤️ By Ashutosh Hathidara</FooterText>;
+        return <FooterText>Made with ❤️ By Rhishnaa</FooterText>;
     }
 }
