@@ -3,13 +3,13 @@ import "./css/SocialMedia.css";
 import styled from 'styled-components';
 
 export const socialMediaLinks = {
-	github: "https://github.com/ashutosh1919",
-	linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-	gmail: "ashutoshhathidara98@gmail.com",
-	gitlab: "https://gitlab.com/ashutoshhathidara98",
-	facebook: "https://www.facebook.com/laymanbrother.19/",
-	twitter: "https://twitter.com/ashutosh_1919",
-	instagram: "https://www.instagram.com/layman_brother/",
+	github: "https://github.com/Rhishnaa",
+	linkedin: "https://www.linkedin.com/in/Rhishna/",
+	gmail: "rhishna140@gmail.com",
+	gitlab: "https://gitlab.com/Rhishna140",
+	facebook: "https://www.facebook.com/Rhishna/",
+	twitter: "https://twitter.com/risna_nation",
+	instagram: "https://www.instagram.com/Rhishna_/",
 };
 
 export default function socialMedia() {
